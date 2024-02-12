@@ -13,4 +13,11 @@ export const distributors = [
     forecastedShipment: 125,
     ytdAverageShipment: 120,
   },
+  {
+    id: 3,
+    name: "Distributor C",
+    lastMonthShipment: 100,
+    forecastedShipment: 105,
+    ytdAverageShipment: 90,
+  },
 ];
