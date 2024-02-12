@@ -1,0 +1,27 @@
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .distributor-metrics {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .distributor-metrics h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .distributor-metrics p {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
